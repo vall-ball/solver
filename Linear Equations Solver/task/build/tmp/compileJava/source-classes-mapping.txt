@@ -1,0 +1,16 @@
+solver/PairsOfChangingColumns.java
+ solver.PairsOfChangingColumns
+solver/FileHandler.java
+ solver.FileHandler
+solver/Matrix.java
+ solver.Matrix
+solver/ArgsParser.java
+ solver.ArgsParser
+solver/ComplexNumber.java
+ solver.ComplexNumber
+solver/ComplexMatrix.java
+ solver.ComplexMatrix
+solver/ComplexFileHandler.java
+ solver.ComplexFileHandler
+solver/Main.java
+ solver.Main

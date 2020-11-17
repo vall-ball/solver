@@ -1,0 +1,25 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    class User {
+
+        private String login;
+        private String firstName;
+        private String lastName;
+
+        public User(String login, String firstName, String lastName) {
+            this.login = login;
+            this.firstName = firstName;
+            this.lastName = lastName;
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3000
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/3000">JetBrains
+    Academy</a></html>
+  time: Tue, 27 Oct 2020 15:27:11 UTC
+record: -1
